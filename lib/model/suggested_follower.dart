@@ -40,31 +40,31 @@ class SuggestedFollower {
 List<SuggestedFollower> suggestedFollowers = [
   SuggestedFollower(
     id: '1',
-    username: 'Alice Smith',
+    username: 'โอม อร่อยเห่าะ',
     profileImageUrl: 'assets/profile_1.jpeg',
     isFollowing: true,
   ),
   SuggestedFollower(
     id: '2',
-    username: 'Bob Johnson',
+    username: 'ปีเตอร์ โกโรโกโส',
     profileImageUrl: 'assets/profile_2.jpeg',
     isFollowing: false,
   ),
   SuggestedFollower(
     id: '3',
-    username: 'Eve Williams',
+    username: 'จ่าขม ลมโชยยยยยยย',
     profileImageUrl: 'assets/profile_3.jpeg',
     isFollowing: false,
   ),
   SuggestedFollower(
     id: '4',
-    username: 'Charlie Brown',
+    username: 'แกไม่รอดแน่ คนอีSAnnnnnnn',
     profileImageUrl: 'assets/profile_4.jpeg',
     isFollowing: true,
   ),
   SuggestedFollower(
     id: '5',
-    username: 'Grace Davis',
+    username: 'หกปีนี้ขื่นขม',
     profileImageUrl: 'assets/profile_5.jpeg',
     isFollowing: false,
   ),
